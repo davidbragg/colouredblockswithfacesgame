@@ -10,9 +10,9 @@ config_version=5
 
 [application]
 
-config/name="colouredblockwithfacesgame"
+config/name="colouredblockswithfacesgame"
 run/main_scene="uid://s2jtmij3ffe1"
-config/features=PackedStringArray("4.4", "Mobile")
+config/features=PackedStringArray("4.4", "C#", "Mobile")
 config/icon="res://icon.svg"
 
 [display]
